@@ -1025,3 +1025,4 @@ C:\Users\ankus\OneDrive\Desktop\Phase-03\Equinox Team 5\Equinox\obj\Debug\net9.0
 C:\Users\ankus\OneDrive\Desktop\Phase-03\Equinox Team 5\Equinox\obj\Debug\net9.0\Equinox.pdb
 C:\Users\ankus\OneDrive\Desktop\Phase-03\Equinox Team 5\Equinox\obj\Debug\net9.0\Equinox.genruntimeconfig.cache
 C:\Users\ankus\OneDrive\Desktop\Phase-03\Equinox Team 5\Equinox\obj\Debug\net9.0\ref\Equinox.dll
+C:\Users\ankus\OneDrive\Desktop\Phase-03\Equinox Team 5\Equinox\obj\Debug\net9.0\Equinox.sourcelink.json
